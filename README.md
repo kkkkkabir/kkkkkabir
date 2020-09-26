@@ -17,6 +17,7 @@
 <a href = "https://twitter.com/kkkkabirrrr"><img src="https://img.icons8.com/cotton/45/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/kkkkkabir/"><img src="https://img.icons8.com/color/45/000000/instagram-new.png"/></a>
 <a href = "https://www.facebook.com/kabir.jain.92/"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
+<a href="https://dev.to/kkkkkabir"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Kabir Jain's DEV Profile" height="50" width="35"></a>
 
 
 
